@@ -30,11 +30,9 @@ Style: S4E12无名幼驹,微软雅黑,72,&H0069BEFF,&H00363655,&H009F642A,&H0000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:03.00,字幕介绍,,0,0,0,,{\fad(100,500)}字幕修改自mylittlekaraoke,感谢@一条小羊dog
-Dialogue: 0,0:00:00.00,0:00:03.00,字幕介绍,,0,0,0,,{\fad(100,500)}字幕样式部分来自EQCN，部分修改自潮汐字幕社
-Dialogue: 0,0:00:00.00,0:00:03.00,字幕介绍,,0,0,0,,{\fad(100,500)}翻译来自EQCN
-Dialogue: 0,0:00:03.00,0:00:05.00,字幕介绍,,0,0,0,,{\an8}本字幕采用知识共享-署名-相同方式共享 4.0 国际许可协议进行许可\Nhttp://creativecommons.org/licenses/by-sa/4.0/deed.zh
-Dialogue: 0,0:00:00.00,0:00:00.00,字幕介绍,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:03.00,字幕介绍,,0,0,0,,{\fad(100,500)}字幕修改自mylittlekaraoke,改动者：名字了吗啊  感谢https://github.com/srsng/Pony-Music-Lryics
+Comment: 0,0:00:00.00,0:00:03.00,字幕介绍,,0,0,0,,{\fad(100,500)}翻译来自EQCN
+Comment: 0,0:00:03.00,0:00:05.00,字幕介绍,,0,0,0,,{\an8}本字幕采用知识共享-署名-相同方式共享 4.0 国际许可协议进行许可\Nhttp://creativecommons.org/licenses/by-sa/4.0/deed.zh
 Dialogue: 0,0:00:00.00,0:00:01.85,Cheese Sandwich,,0,0,0,,{\kf18}The{\kf27} Su{\kf19}per{\kf20} Du{\kf19}per{\kf23} Par{\kf19}ty{\kf19} Po{\kf21}ny
 Dialogue: 0,0:00:01.85,0:00:03.04,Cheese Sandwich,,0,0,0,,{\kf20}That{\kf20} po{\kf20}ny{\kf16} is{\kf43} me
 Dialogue: 0,0:00:03.23,0:00:04.44,Cheese Sandwich,,0,0,0,,{\kf19}I{\kf20} al{\kf21}ways{\kf19} knew{\kf21} that{\kf21} was
@@ -147,3 +145,4 @@ Dialogue: 0,0:01:20.36,0:01:22.43,Cheese Sandwich,,0,0,0,,当然是 如假包换
 Dialogue: 0,0:01:22.44,0:01:26.83,Cheese Sandwich,,0,0,0,,那热情奔放派对小马数我是第一
 Dialogue: 0,0:01:24.23,0:01:26.83,Cheese Sandwich,,0,0,0,,
 Dialogue: 0,0:01:27.04,0:01:34.89,Pinkie Pie,,0,0,0,,可谁还记得热爱派对的小马萍琪？
+
