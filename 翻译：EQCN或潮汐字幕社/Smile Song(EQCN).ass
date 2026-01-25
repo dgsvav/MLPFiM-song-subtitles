@@ -29,10 +29,9 @@ Style: 字幕介绍,微软雅黑,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:03.00,字幕介绍,,0,0,0,,{\fad(500,500)}字幕为自制
-Dialogue: 0,0:00:00.00,0:00:03.00,字幕介绍,,0,0,0,,{\fad(500,500)}字幕样式来自EQCN
-Dialogue: 0,0:00:00.00,0:00:03.00,字幕介绍,,0,0,0,,{\fad(500,500)}翻译来自EQCN
-Dialogue: 0,0:00:03.00,0:00:05.00,字幕介绍,,0,0,0,,{\an8}本字幕采用知识共享-署名-相同方式共享 4.0 国际许可协议进行许可\Nhttp://creativecommons.org/licenses/by-sa/4.0/deed.zh
+Comment: 0,0:00:00.00,10:00:03.00,字幕介绍,,0,0,0,,字幕：名字了吗啊
+Comment: 0,0:00:00.00,10:00:03.00,字幕介绍,,0,0,0,,翻译来自EQCN
+Comment: 0,0:00:03.00,10:00:06.50,字幕介绍,,0,0,0,,{\an8}本字幕采用知识共享-署名-相同方式共享 4.0 国际许可协议进行许可\Nhttp://creativecommons.org/licenses/by-sa/4.0/deed.zh
 Dialogue: 0,0:00:06.56,0:00:08.90,Pinkie Pie,,0,0,0,,{\kf31}My {\kf47}name {\kf30}is {\kf75}Pinkie {\kf45}Pie
 Dialogue: 0,0:00:08.90,0:00:09.52,Pinkie Pie,,0,0,0,,{\kf61}Hello{\kf1}!
 Dialogue: 0,0:00:09.59,0:00:11.82,Pinkie Pie,,0,0,0,,{\kf35}And {\kf47}I {\kf24}am {\kf39}here {\kf32}to {\kf46}say
@@ -163,3 +162,4 @@ Dialogue: 0,0:03:15.15,0:03:17.27,Chorus,,0,0,0,,{\kf212}微笑
 Dialogue: 0,0:03:17.27,0:03:18.23,Pinkie Pie,,0,0,0,,来一齐
 Dialogue: 0,0:03:18.23,0:03:20.11,Chorus,,0,0,0,,{\kf194}微笑
 Dialogue: 0,0:03:20.26,0:03:22.31,Pinkie Pie,,0,0,0,,一齐微笑
+
