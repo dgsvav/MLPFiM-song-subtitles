@@ -34,10 +34,9 @@ Style: RaRity 8,微软雅黑,72,&H00F5E6E6,&H00363655,&H00AA5361,&H37000000,-1,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:03.00,字幕介绍,,0,0,0,,{\fad(100,500)}字幕为自制
-Dialogue: 0,0:00:00.00,0:00:03.00,字幕介绍,,0,0,0,,{\fad(100,500)}字幕样式部分来自EQCN，部分修改自潮汐字幕社
-Dialogue: 0,0:00:00.00,0:00:03.00,字幕介绍,,0,0,0,,{\fad(100,500)}翻译来自EQCN
-Dialogue: 0,0:00:03.00,0:00:06.00,字幕介绍,,0,0,0,,{\an8}本字幕采用知识共享-署名-相同方式共享 4.0 国际许可协议进行许可\Nhttp://creativecommons.org/licenses/by-sa/4.0/deed.zh
+Comment: 0,0:00:00.00,10:00:03.00,字幕介绍,,0,0,0,,字幕：名字了吗啊
+Comment: 0,0:00:00.00,10:00:03.00,字幕介绍,,0,0,0,,翻译来自EQCN
+Comment: 0,0:00:03.00,10:00:06.50,字幕介绍,,0,0,0,,{\an8}本字幕采用知识共享-署名-相同方式共享 4.0 国际许可协议进行许可\Nhttp://creativecommons.org/licenses/by-sa/4.0/deed.zh
 Dialogue: 0,0:00:10.95,0:00:14.60,Pinkie Pie,,0,0,0,,{\kf37}Every {\kf61}single {\kf27}day {\kf22}there's {\kf47}something {\kf48}new {\kf25}you {\kf23}can {\kf50}plan {\kf26}for
 Dialogue: 0,0:00:14.80,0:00:18.01,Pinkie Pie,,0,0,0,,{\kf39}Every {\kf60}single {\kf24}day {\kf18}there's {\kf55}something {\kf72}wonderful {\kf23}to {\kf30}do
 Dialogue: 0,0:00:18.42,0:00:22.00,Pinkie Pie,,0,0,0,,{\kf27}But {\kf49}nothing {\kf23}makes {\kf25}me {\kf40}happy {\kf32}{\kf17}like {\kf8}a {\kf25}day {\kf28}that {\kf18}I {\kf15}can {\kf51}say
@@ -112,3 +111,4 @@ Dialogue: 0,0:01:43.34,0:01:47.20,Chorus,,0,0,0,,她就是独一无二 没有谁
 Dialogue: 0,0:01:47.45,0:01:48.95,Chorus,,0,0,0,,{\kf27}精{\kf23}彩{\kf1}!{\kf49} {\kf24}好{\kf25}玩{\kf1}!
 Dialogue: 0,0:01:47.97,0:01:49.39,Chorus 8,,0,0,0,,{\kf25}精{\kf21}彩{\kf1}! {\kf50}{\kf26}好{\kf18}玩{\kf1}!
 Dialogue: 0,0:01:49.39,0:01:53.67,Chorus,,0,0,0,,就属派对明星小马萍琪
+
