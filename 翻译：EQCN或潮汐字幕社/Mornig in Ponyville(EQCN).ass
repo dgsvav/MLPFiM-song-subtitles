@@ -25,6 +25,7 @@ Style: 字幕介绍,微软雅黑,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,10:00:03.00,字幕介绍,,0,0,0,,中文部分原作者EQCN  名字了吗啊 制作英文部分并改动中文
 Comment: 0,0:00:00.00,100:59:59.99,字幕介绍,,0,0,0,,{\an8}本字幕采用知识共享-署名-相同方式共享 4.0 国际许可协议进行许可\Nhttp://creativecommons.org/licenses/by-sa/4.0/deed.zh
 Dialogue: 0,0:00:09.31,0:00:12.72,Twilight Sparkle,,0,0,0,,{\kf26}{\kf47}Mor{\kf19}ning {\kf21}in {\kf26}Po{\kf19}ny{\kf28}ville {\kf38}shim{\kf104}mers{\kf13}
 Dialogue: 0,0:00:12.72,0:00:16.15,Twilight Sparkle,,0,0,0,,{\kf30}{\kf42}Mor{\kf17}ning {\kf22}in {\kf30}Po{\kf19}ny{\kf27}ville {\kf31}sh{\kf134}ines
@@ -56,3 +57,4 @@ Dialogue: 0,0:00:41.71,0:00:45.31,Twilight Sparkle,,0,0,0,,{\kf38}{\K49}清{\K22
 Dialogue: 0,0:00:45.31,0:00:48.72,Twilight Sparkle,,0,0,0,,{\kf27}{\K46}清{\K19}晨{\K20}的{\K28}小{\K17}马{\K33}镇{\K95}灿{\K69}烂
 Dialogue: 0,0:00:48.72,0:00:52.05,Twilight Sparkle,,0,0,0,,{\kf12}{\K17}而{\K39}我{\K30}总{\K16}是{\K19}那{\K21}么{\K39}的{\K30}期{\K109}待
 Dialogue: 0,0:00:52.05,0:00:54.71,Twilight Sparkle,,0,0,0,,{\kf22}{\K23}又{\K20}是{\K19}美{\K19}好{\K41}的{\K92}一
+
