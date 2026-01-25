@@ -25,7 +25,8 @@ Style: Chorus,微软雅黑,72,&H0044DE4C,&H00565E6D,&H00115813,&H37000000,-1,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,1:00:00.00,字幕介绍,,0,0,0,,{\an8}本字幕采用知识共享-署名-相同方式共享 4.0 国际许可协议进行许可\Nhttp://creativecommons.org/licenses/by-sa/4.0/deed.zh
+Comment: 0,0:00:00.00,10:00:03.00,字幕介绍,,0,0,0,,中文部分字幕原作者：EQCN   名字了吗啊改动，并制作英文部分
+Comment: 0,0:00:03.00,10:00:06.50,字幕介绍,,0,0,0,,{\an8}本字幕采用知识共享-署名-相同方式共享 4.0 国际许可协议进行许可\Nhttp://creativecommons.org/licenses/by-sa/4.0/deed.zh
 Dialogue: 0,0:00:00.00,0:00:03.11,Chorus,,0,0,0,,{\kf37}This {\kf20}is {\kf20}our {\kf29}big {\kf28}n{\kf177}igh{\k1000}{\k0}t
 Dialogue: 0,0:00:03.30,0:00:04.44,Chorus,,0,0,0,,{\kf25}We {\kf28}made {\kf10}it {\kf30}hap{\kf21}pen
 Dialogue: 0,0:00:04.48,0:00:07.27,Chorus,,0,0,0,,{\kf26}Now {\kf20}let's {\kf28}par{\kf41}ty {\kf64}all {\kf11}n{\kf89}igh{\k1000}{\kf0}t
@@ -50,3 +51,4 @@ Dialogue: 0,0:00:31.11,0:00:36.80,Chorus,,0,0,0,,{\K56}好{\K45}伙{\K46}伴{\K9
 Dialogue: 0,0:00:36.99,0:00:40.25,Chorus,,0,0,0,,{\K23}尽{\K25}兴{\K24}的{\K39}一{\K216}晚
 Dialogue: 0,0:00:40.70,0:00:43.96,Chorus,,0,0,0,,{\K26}尽{\K46}兴的{\K40}一{\K237}晚
 Dialogue: 0,0:00:44.37,0:00:49.21,Chorus,,0,0,0,,{\fad(0,2002)}{\K24}尽{\K21}兴{\K26}的{\K41}一{\K374}晚
+
