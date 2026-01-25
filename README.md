@@ -13,3 +13,7 @@ Karaoke-style subtitles for songs from MLP:FiM
 而完全由我制作的字幕，我也采用该协议
 
 具体内容在字幕文件内，以注释的方式标明
+
+致谢
+--
+*  [潮汐字幕社字幕仓库 多云联合维护版本](https://github.com/winddramon/Tidal-Fansub/tree/912af7caf877574e82bbec6397c92795f74c13b1)  
