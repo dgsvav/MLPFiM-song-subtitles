@@ -29,10 +29,9 @@ Style: 字幕介绍,微软雅黑,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:03.00,字幕介绍,,0,0,0,,{\fad(100,500)}字幕为自制
-Dialogue: 0,0:00:00.00,0:00:03.00,字幕介绍,,0,0,0,,{\fad(100,500)}字幕样式部分来自EQCN，部分修改自潮汐字幕社
-Dialogue: 0,0:00:00.00,0:00:03.00,字幕介绍,,0,0,0,,{\fad(100,500)}翻译来自EQCN
-Dialogue: 0,0:00:03.00,0:00:06.50,字幕介绍,,0,0,0,,{\an8}本字幕采用知识共享-署名-相同方式共享 4.0 国际许可协议进行许可\Nhttp://creativecommons.org/licenses/by-sa/4.0/deed.zh
+Comment: 0,0:00:00.00,10:00:03.00,字幕介绍,,0,0,0,,{\fad(100,500)}字幕：名字了吗啊
+Comment: 0,0:00:00.00,10:00:03.00,字幕介绍,,0,0,0,,{\fad(100,500)}翻译来自EQCN
+Comment: 0,0:00:03.00,10:00:06.50,字幕介绍,,0,0,0,,{\an8}本字幕采用知识共享-署名-相同方式共享 4.0 国际许可协议进行许可\Nhttp://creativecommons.org/licenses/by-sa/4.0/deed.zh
 Dialogue: 0,0:00:06.99,0:00:08.39,CS,,0,0,0,,All right, everypony
 Dialogue: 0,0:00:08.62,0:00:10.69,CS,,0,0,0,,We are here to celebrate the birthday
 Dialogue: 0,0:00:10.69,0:00:12.32,PP,,0,0,0,,and anniversary...
@@ -65,3 +64,4 @@ Dialogue: 0,0:00:33.63,0:00:36.13,PP,,0,0,0,,许个愿 在这生日会
 Dialogue: 0,0:00:36.96,0:00:39.97,PP,,0,0,0,,许个愿 在这生日派对
 Dialogue: 0,0:00:40.30,0:00:42.88,PP,,0,0,0,,许个愿 在这生日会
 Dialogue: 0,0:00:43.54,0:00:46.67,PP,,0,0,0,,许个愿 在这生日派对
+
