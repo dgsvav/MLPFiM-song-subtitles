@@ -36,10 +36,9 @@ Style: SS,微软雅黑,72,&H0085ECF9,&H006B6F7D,&H001111BF,&H37000000,-1,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:03.00,字幕介绍,,0,0,0,,{\fad(100,500)}字幕为自制
-Dialogue: 0,0:00:00.00,0:00:03.00,字幕介绍,,0,0,0,,{\fad(100,500)}字幕样式来自EQCN
-Dialogue: 0,0:00:00.00,0:00:03.00,字幕介绍,,0,0,0,,{\fad(100,500)}翻译来自EQCN
-Dialogue: 0,0:00:03.00,0:00:05.08,字幕介绍,,0,0,0,,{\an8}本字幕采用知识共享-署名-相同方式共享 4.0 国际许可协议进行许可\Nhttp://creativecommons.org/licenses/by-sa/4.0/deed.zh
+Comment: 0,0:00:00.00,0:00:03.00,字幕介绍,,0,0,0,,{\fad(100,500)}字幕：名字了吗啊
+Comment: 0,0:00:00.00,0:00:03.00,字幕介绍,,0,0,0,,{\fad(100,500)}翻译来自EQCN
+Comment: 0,0:00:03.00,0:00:05.08,字幕介绍,,0,0,0,,{\an8}本字幕采用知识共享-署名-相同方式共享 4.0 国际许可协议进行许可\Nhttp://creativecommons.org/licenses/by-sa/4.0/deed.zh
 Dialogue: 0,0:00:05.08,0:00:07.60,Chorus,,0,0,0,,{\kf36}Hey{\kf1}, {\kf26}{\kf39}hey{\kf1}, {\kf24}{\kf67}every{\kf58}body
 Dialogue: 0,0:00:07.92,0:00:10.05,Chorus,,0,0,0,,{\kf32}We've {\kf22}got {\kf67}something {\kf15}to {\kf24}s{\kf53}ay
 Dialogue: 0,0:00:10.05,0:00:12.71,Chorus,,0,0,0,,{\kf40}We {\kf25}{\kf27}may {\kf21}{\kf47}seem {\kf27}as {\kf79}different
@@ -186,3 +185,4 @@ Dialogue: 0,0:02:39.73,0:02:42.29,Chorus,,0,0,0,,起跳 齐声喊 (嘿)
 Dialogue: 0,0:02:42.29,0:02:44.21,Chorus,,0,0,0,,跺跺脚 转一转
 Dialogue: 0,0:02:44.21,0:02:45.62,SS8,,0,0,0,,给我摘下来
 Dialogue: 0,0:02:44.21,0:02:45.18,Chorus,,0,0,0,,{\kf97}坎特拉...
+
