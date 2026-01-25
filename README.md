@@ -1,7 +1,6 @@
 # MLPFiM-song-subtitles
-
-Karaoke-style subtitles for songs from MLP:FiM  
 为MLP:FiM中的歌曲制作的带有逐词效果的字幕  
+Karaoke-style subtitles for songs from MLP:FiM
 
 简介
 --
