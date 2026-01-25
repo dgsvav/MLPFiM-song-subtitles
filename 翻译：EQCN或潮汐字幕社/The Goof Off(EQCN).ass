@@ -25,10 +25,9 @@ Style: 字幕介绍,微软雅黑,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:03.00,字幕介绍,,0,0,0,,{\fad(100,500)}字幕基于mylittlekaraoke制作的歌词修改，感谢@一条小羊dog
-Dialogue: 0,0:00:00.00,0:00:03.00,字幕介绍,,0,0,0,,{\fad(100,500)}字幕样式部分来自EQCN，部分修改自潮汐字幕社
-Dialogue: 0,0:00:00.00,0:00:03.00,字幕介绍,,0,0,0,,{\fad(100,500)}翻译来自EQCN
-Dialogue: 0,0:00:03.00,0:00:05.00,字幕介绍,,0,0,0,,{\an8}本字幕采用知识共享-署名-相同方式共享 4.0 国际许可协议进行许可\Nhttp://creativecommons.org/licenses/by-sa/4.0/deed.zh
+Comment: 0,0:00:00.00,0:00:03.00,字幕介绍,,0,0,0,,字幕基于mylittlekaraoke制作的歌词修改，改动者：名字了吗啊  感谢https://github.com/srsng/Pony-Music-Lryics
+Comment: 0,0:00:00.00,0:00:03.00,字幕介绍,,0,0,0,,翻译来自EQCN
+Comment: 0,0:00:03.00,0:00:05.00,字幕介绍,,0,0,0,,{\an8}本字幕采用知识共享-署名-相同方式共享 4.0 国际许可协议进行许可\Nhttp://creativecommons.org/licenses/by-sa/4.0/deed.zh
 Dialogue: 0,0:00:09.41,0:00:11.72,Pinkie Pie,,0,0,0,,{\kf18}It's{\kf15} your{\kf19} birth{\kf14}day{\kf21} par{\kf15}ty{\kf16},{\kf12} a{\kf19} ve{\kf12}ry{\kf21} spe{\kf14}cial{\kf35} day
 Dialogue: 0,0:00:11.92,0:00:14.41,Pinkie Pie,,0,0,0,,{\kf16}I've{\kf20} got{\kf6} a{\kf25} song{\kf1},{\kf15} it{\kf17} won't{\kf18} take{\kf17} long{\kf1},{\kf15} I{\kf20} just{\kf19} wan{\kf12}ted{\kf9} to{\kf38} say
 Dialogue: 0,0:00:14.71,0:00:16.09,Pinkie Pie,,0,0,0,,{\kf21}Hap{\kf16}py{\kf1},{\kf17} hap{\kf15}py{\kf1},{\kf17} hap{\kf16}py{\kf1},{\kf16} hap{\kf16}py
@@ -135,3 +134,4 @@ Comment: 0,0:01:42.76,0:01:44.09,字幕介绍,,0,0,0,,本人不会西班牙语�
 Dialogue: 0,0:01:44.11,0:01:45.41,Pinkie Pie,,0,0,0,,千万看准方向
 Dialogue: 0,0:01:45.42,0:01:46.70,Pinkie Pie,,0,0,0,,要是没有看准
 Dialogue: 0,0:01:46.77,0:01:48.12,Pinkie Pie,,0,0,0,,小心捅出大漏
+
