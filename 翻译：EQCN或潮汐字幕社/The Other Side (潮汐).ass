@@ -30,7 +30,6 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,100:59:59.99,字幕介绍,,0,0,0,,字幕：名字了吗啊
 Comment: 0,0:00:00.00,100:59:59.99,字幕介绍,,0,0,0,,翻译来自潮汐字幕社
 Comment: 0,0:00:00.00,100:59:59.99,字幕介绍,,0,0,0,,{\an8}本字幕采用知识共享-署名-相同方式共享 4.0 国际许可协议进行许可\Nhttp://creativecommons.org/licenses/by-sa/4.0/deed.zh
-Dialogue: 0,0:00:05.00,0:00:07.00,字幕介绍,,0,0,0,,{\an8}本字幕采用知识共享-署名-相同方式共享 4.0 国际许可协议进行许可\Nhttp://creativecommons.org/licenses/by-sa/4.0/deed.zh
 Dialogue: 0,0:00:24.10,0:00:26.48,RaRity,,0,0,0,,{\kf43}Sitting {\kf36}here {\kf32}with {\kf26}my {\kf26}head {\kf21}in {\kf16}my {\kf37}hands
 Dialogue: 0,0:00:24.10,0:00:26.48,RaRity,,0,0,0,,手捧额头 静坐桌前
 Dialogue: 0,0:00:26.49,0:00:28.43,RaRity,,0,0,0,,{\kf71}Ideas{\kf11} that {\kf33}come {\kf29}and {\kf51}go
@@ -150,3 +149,4 @@ Dialogue: 0,0:01:56.07,0:01:57.14,RaRity 8,,0,0,0,,{\kf48}Hey{\kf1}, {\kf57}hey{
 Dialogue: 0,0:01:56.07,0:01:57.14,RaRity 8,,0,0,0,,
 Dialogue: 0,0:02:21.89,0:02:21.89,RaRity 8,,0,0,0,,
 Comment: 0,0:02:21.89,0:02:23.89,RaRity 8,,0,0,0,,该行时间轴为特效做了微调，并不符合发音
+
