@@ -17,4 +17,4 @@ Karaoke-style subtitles for songs from MLP:FiM
 致谢
 --
 *  [潮汐字幕社字幕仓库 多云联合维护版本](https://github.com/winddramon/Tidal-Fansub/tree/912af7caf877574e82bbec6397c92795f74c13b1)  
-*  恒裕居士[哔哩哔哩](https://space.bilibili.com/313681067) [Fimtale](https://fimtale.com/u/%E6%81%92%E8%A3%95%E5%B1%85%E5%A3%AB)
+*  恒裕居士 [哔哩哔哩](https://space.bilibili.com/313681067) [Fimtale](https://fimtale.com/u/%E6%81%92%E8%A3%95%E5%B1%85%E5%A3%AB)
